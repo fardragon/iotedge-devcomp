@@ -1,0 +1,10 @@
+PyQt5
+appdirs
+
+azure-identity
+azure-mgmt-resource
+azure-mgmt-iothub
+azure-iot-hub
+
+pycairo
+PyGObject
